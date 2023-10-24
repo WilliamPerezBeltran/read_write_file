@@ -1,0 +1,27 @@
+21717 pts/0    T      0:58 python2.7.9 -m scrapy crawl uswitch_ranking --set CLOSESPIDER_ITEMCOUNT=10000
+21840 pts/2    T      0:56 python2.7.9 -m scrapy crawl uswitch_ranking --set CLOSESPIDER_ITEMCOUNT=10000
+21936 pts/3    T      0:55 python2.7.9 -m scrapy crawl uswitch_ranking --set CLOSESPIDER_ITEMCOUNT=10000
+22031 pts/4    T      0:55 python2.7.9 -m scrapy crawl uswitch_ranking --set CLOSESPIDER_ITEMCOUNT=10000
+22125 pts/5    Tl     0:26 python2.7.9 -m scrapy crawl uswitch_ranking --set CLOSESPIDER_ITEMCOUNT=10000
+22989 pts/0    Tl     0:01 python2.7.9 -m scrapy crawl uswitch_ranking
+23004 pts/2    Tl     0:01 python2.7.9 -m scrapy crawl uswitch_ranking
+23026 pts/3    Tl     0:01 python2.7.9 -m scrapy crawl uswitch_ranking
+23041 pts/4    Tl     0:01 python2.7.9 -m scrapy crawl uswitch_ranking
+23073 pts/6    T      0:01 python2.7.9 -m scrapy crawl uswitch_ranking
+23090 pts/7    Tl     0:01 python2.7.9 -m scrapy crawl uswitch_ranking
+23345 pts/0    Tl     0:01 python2.7.9 -m scrapy crawl uswitch_ranking
+23509 pts/7    Tl     0:06 python2.7.9 -m scrapy crawl uswitch_ranking --set CLOSESPIDER_ITEMCOUNT=10000
+23561 pts/0    T      0:50 python2.7.9 -m scrapy crawl uswitch_ranking --set CLOSESPIDER_ITEMCOUNT=10000
+23576 pts/2    T      0:50 python2.7.9 -m scrapy crawl uswitch_ranking --set CLOSESPIDER_ITEMCOUNT=10000
+23598 pts/3    T      0:48 python2.7.9 -m scrapy crawl uswitch_ranking --set CLOSESPIDER_ITEMCOUNT=10000
+23613 pts/4    T      0:47 python2.7.9 -m scrapy crawl uswitch_ranking --set CLOSESPIDER_ITEMCOUNT=10000
+23628 pts/6    T      0:46 python2.7.9 -m scrapy crawl uswitch_ranking --set CLOSESPIDER_ITEMCOUNT=10000
+23646 pts/5    T      0:18 python2.7.9 -m scrapy crawl uswitch_ranking --set CLOSESPIDER_ITEMCOUNT=10000
+24116 pts/5    T      1:02 python2.7.9 -m scrapy crawl uswitch_ranking --set CLOSESPIDER_ITEMCOUNT=10000
+24136 pts/7    T      1:03 python2.7.9 -m scrapy crawl uswitch_ranking --set CLOSESPIDER_ITEMCOUNT=10000
+24155 pts/6    S+     1:02 python2.7.9 -m scrapy crawl uswitch_ranking --set CLOSESPIDER_ITEMCOUNT=10000
+24177 pts/4    T      1:03 python2.7.9 -m scrapy crawl uswitch_ranking --set CLOSESPIDER_ITEMCOUNT=10000
+24197 pts/3    T      1:03 python2.7.9 -m scrapy crawl uswitch_ranking --set CLOSESPIDER_ITEMCOUNT=10000
+24216 pts/2    T      1:03 python2.7.9 -m scrapy crawl uswitch_ranking --set CLOSESPIDER_ITEMCOUNT=10000
+24235 pts/0    T      1:02 python2.7.9 -m scrapy crawl uswitch_ranking --set CLOSESPIDER_ITEMCOUNT=10000
+
