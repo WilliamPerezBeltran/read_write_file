@@ -1,0 +1,14 @@
+software_engineer_role
+senior_software_engineer
+product_manager_role
+product_developer_evangelist_role
+product_designer_role
+data_analyst_role
+sales_role
+lead_generation_role
+ux_role
+cx_analyst_role
+copy_writer_role
+fp&a_role
+integrations_engineer_role
+
