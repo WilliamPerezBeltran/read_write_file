@@ -23,17 +23,11 @@ fs.readFile("data.txt", (err, data) => {
     return acc;
   }, []);
 
+  console.log(newArray.length);
+  console.log(result.length);
 
-
-
-
-   console.log(newArray.length);
-   console.log(result.length);
-
-
-result.sort(function (a, b) {
+  result.sort(function (a, b) {
     return a.toLowerCase().localeCompare(b.toLowerCase());
-});
+  });
   console.log(result);
-   
 });
